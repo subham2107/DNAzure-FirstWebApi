@@ -1,0 +1,9 @@
+D:\Dotnet_Projects\DockerWebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Dotnet_Projects\DockerWebApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Dotnet_Projects\DockerWebApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Dotnet_Projects\DockerWebApi\obj\Debug\netcoreapp3.1\DockerWebApi.csprojAssemblyReference.cache
+D:\Dotnet_Projects\DockerWebApi\obj\Debug\netcoreapp3.1\DockerWebApi.AssemblyInfoInputs.cache
+D:\Dotnet_Projects\DockerWebApi\obj\Debug\netcoreapp3.1\DockerWebApi.AssemblyInfo.cs
+D:\Dotnet_Projects\DockerWebApi\obj\Debug\netcoreapp3.1\DockerWebApi.RazorTargetAssemblyInfo.cache
+D:\Dotnet_Projects\DockerWebApi\obj\Debug\netcoreapp3.1\staticwebassets\DockerWebApi.StaticWebAssets.Manifest.cache
+D:\Dotnet_Projects\DockerWebApi\obj\Debug\netcoreapp3.1\staticwebassets\DockerWebApi.StaticWebAssets.xml
